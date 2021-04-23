@@ -1,1 +1,1 @@
-very sophisticated hacker#1337
+cout << "hacker\n";#6666
